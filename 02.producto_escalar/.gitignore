@@ -1,0 +1,6 @@
+
+.idea/
+/productoEscalar/target/
+productoEscalar/pom.xml
+
+productoEscalar/src/main/java/productoEscalar.java
