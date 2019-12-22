@@ -12,4 +12,5 @@ Estos ejericios los he realizado en mi tiempo libre, algunas veces con mayor con
 
 ## Índice
 
-* 01.equinombre  (pag 26, ej.6)
+* 01. Equinombre  (pag 26, ej.6)
+* 02. Producto escalar  (pag 60, ej.1)
