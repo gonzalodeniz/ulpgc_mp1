@@ -14,3 +14,4 @@ Estos ejericios los he realizado en mi tiempo libre, algunas veces con mayor con
 
 * 01. Equinombre  (pag 26, ej.6)
 * 02. Producto escalar  (pag 60, ej.1)
+* 03. Elemento máximo de una matriz  (pag 60, ej.2)
