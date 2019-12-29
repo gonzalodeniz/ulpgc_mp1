@@ -2,3 +2,9 @@
 *.pyc
 
 03.elemento_maximo_matriz/.idea/
+/03.elemento_maximo_matriz/elemento_maximo_matriz/target/
+03.elemento_maximo_matriz/elemento_maximo_matriz/pom.xml
+
+03.elemento_maximo_matriz/elemento_maximo_matriz/src/main/java/main/ElementoMaximoMatriz.java
+
+03.elemento_maximo_matriz/elemento_maximo_matriz/
